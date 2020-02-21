@@ -4,6 +4,9 @@ Camping website
 
 live demo: http://radiant-mesa-95099.herokuapp.com/
 
+username: admin
+passport: admin123
+
 admin dashboard http://radiant-mesa-95099.herokuapp.com/home
 
 create admin http://radiant-mesa-95099.herokuapp.com/register
