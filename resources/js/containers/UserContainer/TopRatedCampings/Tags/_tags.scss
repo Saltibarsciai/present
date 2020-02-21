@@ -1,0 +1,25 @@
+@import "../../../../../sass/variables";
+
+.tags{
+    position: absolute;
+    bottom: 3px;
+    left: 20px;
+    ol{
+        padding: 0;
+        list-style: none;
+        display: inline-block;
+        font-weight: bold;
+        li{
+            float: left;
+            background: #999999;
+            color: $dark;
+            margin: 2px;
+            padding: 3px 7px;
+            text-align: center;
+            border-radius: 5px;
+            flex: 30px;
+            cursor: pointer;
+        }
+    }
+}
+
