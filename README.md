@@ -4,7 +4,7 @@ Camping website
 
 live demo: http://radiant-mesa-95099.herokuapp.com/
 
-username: admin
+email: admin@admin.com
 
 passwort: admin123
 
