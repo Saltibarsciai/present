@@ -43987,7 +43987,7 @@ var render = function() {
               [
                 _c("StarRating", {
                   attrs: {
-                    rating: camping.rating,
+                    rating: camping.rating / 2,
                     increment: 0.1,
                     "show-rating": false,
                     "star-size": 20
@@ -44116,7 +44116,7 @@ var render = function() {
                   [
                     _c("StarRating", {
                       attrs: {
-                        rating: camping.rating,
+                        rating: camping.rating / 2,
                         increment: 0.1,
                         "show-rating": false,
                         "star-size": 15

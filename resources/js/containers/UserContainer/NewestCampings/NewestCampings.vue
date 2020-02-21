@@ -12,7 +12,7 @@
                 <Place :city="camping.city" :country="camping.country"></Place>
                 <div class="stars-wrapper" @click="setId(camping.id)">
                     <StarRating
-                        :rating="camping.rating"
+                        :rating="camping.rating/2"
                         :increment="0.1"
                         :show-rating="false"
                         :star-size="20"
